@@ -1,6 +1,9 @@
 # 💫Hi there! My name is Bob Marconi! Here is a little bit about me:
 
- - I am currently a student at AppAcademy.<br> - I’m looking to build my portfolio and resume to set me apart from other candidates.<br> - I’m seeking a position as a junior fullstack developer.<br> - I’m currently learning Python and Flask.
+ - I am currently a student at AppAcademy.<br>
+ - I’m looking to build my portfolio and resume to set me apart from other candidates.<br>
+ - I’m seeking a position as a junior fullstack developer.<br>
+ - I’m currently learning Python and Flask.
 
 
 ## 🌐 Socials:
