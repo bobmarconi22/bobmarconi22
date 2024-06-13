@@ -1,5 +1,8 @@
 # ⭐️ Hi there! My name is Bob Marconi! Here is a little bit about me:
-I am a recent graduate from AppAcademy.<br>I’m looking to build my portfolio and resume to set me apart from other candidates.<br>I’m seeking a position as a junior fullstack developer.<br>I want to find a company that I can learn from and grow within
+- I am a recent graduate from AppAcademy.<br>
+- I’m looking to build my portfolio and resume to set me apart from other candidates.<br>
+- I’m seeking a position as a junior fullstack developer.<br>
+- I want to find a company that I can learn from and grow within.
 
 
 ## 🌐 Socials:
