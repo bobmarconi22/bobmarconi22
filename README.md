@@ -3,7 +3,7 @@ I am a recent graduate from AppAcademy.<br>I’m looking to build my portfolio a
 
 
 ## 🌐 Socials:
-[![Website](https://img.shields.io/badge/Website-bobmarconi.com-darkgreen?logo=google-chrome&logoColor=white)](https://www.bobmarconi.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=61560815168066) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bobmarconi22.swe/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bob-marconi-3656932a9/)
+[![Website](https://img.shields.io/badge/Website-darkgreen?logo=google-chrome&logoColor=white)](https://www.bobmarconi.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=61560815168066) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bobmarconi22.swe/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bob-marconi-3656932a9/)
 
 
 # 💻 Tech Stack:
