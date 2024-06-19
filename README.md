@@ -1,5 +1,5 @@
 # ⭐️ Hi there! My name is Bob Marconi! Here is a little bit about me:
-- Full Stack Engineer who loves Front End<br>
+- Full Stack Engineer who loves Front End and UI design<br>
 - I love to learn new things every single day<br>
 - I love Open World Single Player games (Red Dead Redemption 2, Ghost of Tsushima, etc.) as well as games like (Madden, NCAA, NHL, MLB The Show, NHL)<br>
 - I love Sports, and NEVER miss a Phillies game!
