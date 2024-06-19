@@ -1,8 +1,8 @@
 # ⭐️ Hi there! My name is Bob Marconi! Here is a little bit about me:
-- I am a recent graduate from AppAcademy.<br>
-- I’m looking to build my portfolio and resume to set me apart from other candidates.<br>
-- I’m seeking a position as a junior fullstack developer.<br>
-- I want to find a company that I can learn from and grow within.
+- Full Stack Engineer who loves Front End<br>
+- I love to learn new things every single day<br>
+- I love Open World Single Player games (Red Dead Redemption 2, Ghost of Tsushima, etc.) as well as games like (Madden, NCAA, NHL, MLB The Show, NHL)<br>
+- I love Sports, and NEVER miss a Phillies game!
 
 
 ## 🌐 Socials:
