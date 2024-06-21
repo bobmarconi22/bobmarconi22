@@ -17,4 +17,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bobmarconi22&theme=apprentice&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bobmarconi22&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+[![](https://visitcount.itsvg.in/api?id=bobmarconi22&icon=2&color=3)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
