@@ -1,7 +1,7 @@
 # ⭐️ Hi there! My name is Bob Marconi! Here is a little bit about me:
 - Full Stack Engineer who loves Front End and UI design!<br>
 - I love to learn new things every single day!<br>
-- I love Open World Single Player games (Red Dead Redemption 2, Ghost of Tsushima, etc.) as well as sport simulation games such as Madden, CFB25, NHL, MLB The Show, NHL!<br>
+- Open World Single Player games (Red Dead Redemption 2, Ghost of Tsushima, etc.) as well as sport simulation games such as Madden, CFB25, NHL, MLB The Show, NHL are my bread and butter!!<br>
 - I love playing and watching Sports, and I never miss a Phillies game!
 
 
@@ -17,6 +17,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bobmarconi22&theme=apprentice&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bobmarconi22&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-[![](https://visitcount.itsvg.in/api?id=bobmarconi22&icon=2&color=3)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
