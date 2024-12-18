@@ -1,6 +1,7 @@
 # ⭐️ Hi there! My name is Bob Marconi! Here is a little bit about me:
 - Full Stack Engineer who loves Front End and UI design!<br>
 - I love to learn new things every single day!<br>
+- Contributor for Outlier AI in Python Coding<br>
 - Open World Single Player games (Red Dead Redemption 2, Ghost of Tsushima, etc.) as well as sport simulation games such as Madden, CFB25, NHL, MLB The Show, NHL are my bread and butter!!<br>
 - I love playing and watching Sports, and I never miss a Phillies game!
 
